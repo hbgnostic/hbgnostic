@@ -15,7 +15,7 @@ Full-stack developer and founder of [Traceport Technologies](https://traceport.i
 
 **[TracePort for Charities](https://traceport.io/charities)** — Donation tracking platform with blockchain-verified attestations for audit and donor transparency. Includes a Flask/Python onboarding tool that parses charity documentation with AI assistance. Next.js 15, Prisma, PostgreSQL (Supabase), Vercel.
 
-**Hummingbox** — Production BRC-100 wallet implementation exposing micropayment APIs for any application. Runs on Cloud Run with Cloud KMS. Includes anomaly detection engine with Z-score analysis and Telegram alerting.
+**Vela** — Production BRC-100 wallet implementation exposing micropayment APIs for any application. Runs on Cloud Run with Cloud KMS. Includes anomaly detection engine with Z-score analysis and Telegram alerting.
 
 **[Daily BSV Intel Report](https://t.me/bsvintel_bot)** — Automated blockchain intelligence platform scanning 144 blocks of transaction data daily. Custom analytics pipeline, 3-layer orthogonal script taxonomy, whale detection, mining intelligence. 55+ Telegram subscribers. Self-operated on GCP Compute Engine with systemd and n8n automation.
 
